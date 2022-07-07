@@ -1,9 +1,24 @@
-Lista de comandos
-#### 1º) Passo #####
-npm i -g @vue/cli "instalar de forma global"
-#### 2º) Passo #####
-vue create calculator "Cria a pasta do projeto"
-#### 3º) Passo ####
-cd calculator "acessa a/as pasta do projeto"
-#### 4º) Passo ####
-vue run serve "inicia o projeto"
+# calculator
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
