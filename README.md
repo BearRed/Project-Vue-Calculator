@@ -1,3 +1,4 @@
+Lista de comandos
 #### 1º) Passo #####
 npm i -g @vue/cli "instalar de forma global"
 #### 2º) Passo #####
